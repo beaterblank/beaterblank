@@ -11,5 +11,3 @@
 - 📫 How to reach me: [mail me](mailto:gmtejar@gmail.com),[instagram](https://www.instagram.com/mohan_teja_reddy/)
 
 
-![personal page](https://beaterblank.github.io/portfolio/)
-
