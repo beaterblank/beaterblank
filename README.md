@@ -2,7 +2,6 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beaterblank&show_icons=true&theme=radical)
-![stats again](https://github-readme-stats.vercel.app/api?username=beaterblank&show_icons=true&locale=en)
 
 - 🔭 I’m currently working on FullStack Devlopment,Machine learning,Software Devlopment
 - ✍️ I'm currently well versed in pyhton,c,cpp,java,java script,html,css,Nodejs,firebase,R,Matlab
