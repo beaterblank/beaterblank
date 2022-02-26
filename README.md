@@ -1,7 +1,9 @@
-### Hi there 👋 Mohan here,
+### Hi there 👋 Mohan here
+#                                              LeetCode
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beaterblank&show_icons=true&theme=radical)
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gmtejar&theme=dark)
-                                              LeetCode
+
 - 🔭 I’m currently working on FullStack Devlopment,Machine learning,Software Devlopment
 - ✍️ I'm currently well versed in pyhton,c,cpp,java,java script,html,css,Nodejs,firebase,R,Matlab
 - 🌱 I’m currently learning Reactjs,Bootstrap,MongoDB
