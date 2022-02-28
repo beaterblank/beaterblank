@@ -10,9 +10,9 @@
 
 
 ## Github Stats
-<div algin="center">
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beaterblank&show_icons=true&theme=radical)
-</div>
+
 ## Languages and tools
 
 <table><tr><td valign="top" width="33%">
