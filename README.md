@@ -1,4 +1,4 @@
-# Hi there 👋 Mohan here
+<h1 align="center"> Hi there 👋 Mohan here</h1>
 
 
 - 🔭 I’m currently working on FullStack Devlopment,Machine learning,Software Devlopment
@@ -9,13 +9,13 @@
 
 
 
-<h2 align="center">Github</h2>
+<h2 align="center">Github Stats</h2>
 
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=beaterblank&show_icons=true&theme=radical"/>
 </div>
 
-## Languages and tools
+<h2 align="center"> Languages and tools</div>
 
 <table><tr><td valign="top" width="33%">
 
