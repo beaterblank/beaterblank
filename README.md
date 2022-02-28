@@ -9,7 +9,7 @@
 
 
 
-## Github Stats
+<h2 align="center">Github</h2>
 
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=beaterblank&show_icons=true&theme=radical"/>
