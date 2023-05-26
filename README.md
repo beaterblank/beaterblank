@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Deep Learning,Machine learning,Artificial Intelligence
-- ✍️ I'm currently well versed in pyhton,c,cpp,java,java script,html,css,Nodejs,firebase,R,Matlab
+- ✍️ I'm currently well versed in pyhton, and NLP
 - 👯 I’m looking to collaborate on Web devlopment,Machine Learning or Data analytics and Software Devlopment projects.
 - 📫 How to reach me: [mail me](mailto:gmtejar@gmail.com)
 
