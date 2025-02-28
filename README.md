@@ -7,13 +7,6 @@
 - 📫 How to reach me: [mail me](mailto:gmtejar@gmail.com)
 
 
-
-<h2 align="center">Github Stats</h2>
-
-<div align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=beaterblank&show_icons=true&theme=radical"/>
-</div>
-
 <h2 align="center"> Languages and tools</h2>
 
 <table><tr><td valign="top" width="33%">
